@@ -30,8 +30,8 @@ Seus usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Link da solução]()
-- URL do site ao vivo: [demonstração]()
+- URL da solução: [Link da solução](https://www.frontendmentor.io/solutions/product-preview-card-component-wBEOv82pR9)
+- URL do site ao vivo: [demonstração](https://matheusmanuel.github.io/Product-preview-card-component/)
 
 
 ### Construído com
