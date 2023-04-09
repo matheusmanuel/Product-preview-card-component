@@ -1,4 +1,4 @@
-# Frontend Mentor - Solução de desafio de API de encurtamento de URL em breve
+# Product preview card componen on Frontend Mentor. 
 
 Esta é uma solução para o [desafio Product preview card componen on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
