@@ -39,7 +39,6 @@ Seus usuários devem ser capazes de:
 - HTML
 - Propriedades personalizadas CSS 3
 - Flexbox
-- javascript
 
 ## Autor
 
